@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/synebo_test/'
+  publicPath: '/vue-todolist/'
 }
